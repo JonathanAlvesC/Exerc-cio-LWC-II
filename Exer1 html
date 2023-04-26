@@ -1,0 +1,17 @@
+<template>
+	<div class="app slds-p-around_x-large">
+		<h1 class="slds-text-heading_large">{title}</h1>
+
+		
+		<h1>Lead: {primeironome} {sobrenome}</h1>
+		<p>Idade: {idade} anos</p>
+		<p>Email: {email}</p>
+		<p>Classificação: {classificacao}</p>
+		<p>Empresa: {empresa}</p>
+		<p>Receita Anual: {receitaanual}</p>
+
+
+
+
+	</div>
+</template>
