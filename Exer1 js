@@ -1,0 +1,12 @@
+import { LightningElement } from 'lwc';
+
+
+export default class MyComponent extends LightningElement {
+  primeironome = 'Pedro';
+  sobrenome = 'Henrique';
+  idade = 30;
+  email = 'joao.silva@email.com';
+  classificacao = 'Cliente Diamante';
+  empresa = 'Digimon Ltda.';
+  receitaanual = 50000;
+}
