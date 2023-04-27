@@ -1,0 +1,11 @@
+<template>
+    <lightning-card>
+
+        <c-app ide="0" nome="Jonathan" valor="R$150.000,00" fase="Closed Won"></c-app>
+        <c-app ide="1" nome="Isadora" valor="R$200.000,00" fase="Closed Won"></c-app>
+        <c-app ide="2" nome="Igor" valor="R$300.000,00" fase="Closed Won"></c-app>
+        <c-app ide="3" nome="Valentina" valor="R$400.000,00" fase="Closed Won"></c-app>
+        <c-app ide="4" nome="Théo" valor="R$500.00,00" fase="Closed Won"></c-app>
+
+    </lightning-card>
+</template>
