@@ -1,0 +1,10 @@
+<template>
+    
+        <div class="info">
+    <h1> <lightning-icon icon-name="standard:lead" alternative-text="lead" title="lead"></lightning-icon>  Informações do Lead </h1>
+
+    <c-lead ide="0" tratamento="Mr"  primeironome="Jonathan" sobrenome="Alves" empresa="TI Consultória" status="Closed converted"></c-lead>
+    <c-lead ide="1" tratamento="Ms"  primeironome="Isadora" sobrenome="Fernanda" empresa="OdontoSmille" status="Closed not converted"></c-lead>
+        </div>
+   
+</template>
